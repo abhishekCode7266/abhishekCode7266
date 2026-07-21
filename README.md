@@ -51,9 +51,19 @@ I'm a passionate developer crafting innovative solutions with clean code and mod
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekCode7266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekCode7266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&cache_seconds=1800)](https://github.com/abhishekCode7266)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekCode7266&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekCode7266&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&cache_seconds=1800)](https://github.com/abhishekCode7266)
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekCode7266&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
@@ -61,13 +71,7 @@ I'm a passionate developer crafting innovative solutions with clean code and mod
 
 ## 🎯 Featured Projects
 
-*Projects coming soon! Check back as I build and share my work.*
-
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekCode7266&theme=tokyo-night&hide_border=true)
+Currently building amazing projects! Stay tuned for updates.
 
 ---
 
