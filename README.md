@@ -22,6 +22,7 @@ I'm a passionate developer crafting innovative solutions with clean code and mod
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -49,21 +50,28 @@ I'm a passionate developer crafting innovative solutions with clean code and mod
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekCode7266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&cache_seconds=1800)](https://github.com/abhishekCode7266)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekCode7266&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&cache_seconds=1800)](https://github.com/abhishekCode7266)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/abhishekCode7266">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhishekCode7266&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" width="500"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/abhishekCode7266">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekCode7266&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff" alt="Top Languages" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishekCode7266&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishekCode7266&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 </div>
 
