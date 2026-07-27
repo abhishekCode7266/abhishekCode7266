@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tadka QuizVerse| Ultimate Learning Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <header id="welcome-screen" class="glass-card">
+        <h1>QuizVerse Pro</h1>
+        <p>Master your subjects with interactive learning.</p>
+        <button onclick="app.showSubjects()">Start Learning</button>
+    </header>
+
+    <section id="subject-selection" class="hidden">
+        <h2>Choose a Subject</h2>
+        <div id="subject-grid" class="grid"></div>
+    </section>
+
+    <section id="quiz-area" class="hidden glass-card">
+        <div id="quiz-header">
+            <h3 id="question-text">Question Loading...</h3>
+        </div>
+        <div id="options-grid" class="grid"></div>
+        <div style="margin-top:20px;">
+            <button onclick="app.nextQuestion()">Next</button>
+        </div>
+    </section>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

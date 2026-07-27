@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe Game</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="container">
+        <h1 style="font-size:70px; 
+        text-align:center; 
+        margin-bottom:10px;">
+            🎮 TIC-TAC-TOE GAME
+        </h1>
+        
+        <h2 style="text-align:center; margin-bottom:30px;">
+            Let's Play Tic-Tac-Toe Game
+        </h2>
+        
+        <div class="game-board">
+            <div class="cell" data-index="0"></div>
+            <div class="cell" data-index="1"></div>
+            <div class="cell" data-index="2"></div>
+            <div class="cell" data-index="3"></div>
+            <div class="cell" data-index="4"></div>
+            <div class="cell" data-index="5"></div>
+            <div class="cell" data-index="6"></div>
+            <div class="cell" data-index="7"></div>
+            <div class="cell" data-index="8"></div>
+        </div>
+        
+        <div class="game-player">
+            <div class="player player1">
+                <strong>Player 1 (X)</strong>
+            </div>
+
+            <div class="player player2">
+                <strong>Player 2 (O)</strong>
+            </div>
+        </div>
+
+        <button type="button" class="restartBtn">
+            Restart Game
+        </button>
+        
+        <div class="alertBox">
+            Start the game! Player X's turn.
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

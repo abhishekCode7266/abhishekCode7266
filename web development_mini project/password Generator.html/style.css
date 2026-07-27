@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#ffa585,#45c5d8);
+}
+
+.container{
+    width:380px;
+    padding:25px;
+    border-radius:12px;
+    background:rgba(255,255,255,0.15);
+    backdrop-filter:blur(10px);
+    color:white;
+    box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+h1{
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.inputBox{
+    position:relative;
+}
+
+.passBox{
+    width:100%;
+    padding:12px;
+    border:none;
+    border-radius:5px;
+    font-size:18px;
+}
+
+#copyIcon{
+    position:absolute;
+    right:10px;
+    top:10px;
+    color:black;
+    cursor:pointer;
+}
+
+#inputSlider{
+    width:100%;
+    margin:15px 0;
+}
+
+.row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin:10px 0;
+}
+
+.genBtn{
+    width:100%;
+    margin-top:15px;
+    padding:12px;
+    border:none;
+    border-radius:5px;
+    background:#0066ff;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.genBtn:hover{
+    background:#004ecc;
+}

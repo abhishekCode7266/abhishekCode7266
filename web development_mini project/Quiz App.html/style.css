@@ -1,0 +1,57 @@
+:root {
+    --primary: #6366f1;
+    --secondary: #8b5cf6;
+    --bg: #0f172a;
+    --glass: rgba(255, 255, 255, 0.1);
+    --text: #f8fafc;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
+
+body { 
+    background: linear-gradient(135deg, #0f172a, #1e293b); 
+    color: var(--text); 
+    min-height: 100vh; 
+    padding: 20px; 
+}
+
+.container { max-width: 900px; margin: auto; }
+
+.glass-card { 
+    background: var(--glass); 
+    backdrop-filter: blur(10px); 
+    padding: 2rem; 
+    border-radius: 20px; 
+    border: 1px solid rgba(255,255,255,0.1); 
+}
+
+.grid { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    gap: 1rem; 
+    margin-top: 2rem; 
+}
+
+.subject-card { 
+    padding: 1.5rem; 
+    background: rgba(255,255,255,0.05); 
+    border-radius: 15px; 
+    cursor: pointer; 
+    transition: 0.3s; 
+    text-align: center; 
+    border: 1px solid rgba(255,255,255,0.1); 
+}
+
+.subject-card:hover { transform: translateY(-5px); background: var(--primary); }
+
+.hidden { display: none; }
+
+button { 
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    border: none; 
+    cursor: pointer; 
+    background: var(--primary); 
+    color: white; 
+    font-weight: bold; 
+}
